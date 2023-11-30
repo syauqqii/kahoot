@@ -1,2 +1,2 @@
 ## KAHOOOOOOOT
-cheat pakai piton hehe
+cheat pakai piton hehe `python cheat.py`
