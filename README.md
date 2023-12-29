@@ -1,9 +1,15 @@
-## KAHOOOOOOOT
-cheat pakai piton hehe `python cheat.py`
+# KAH00T
+> Cheat kahoot pakai python
 
-## IMPORT LIBRARY
-`pip install requests`
-itu ajh beres hehe
+## DOWNLOAD LIBRARY
+```python3
+pip install requests || pip3 install requests
+```
 
-## SKRINSUTT
+## RUN PROGRAM
+```python3
+python cheat.py || python3 cheat.py
+```
+
+## SCREENSHOT PROGRAM
 <img src="res.png">
